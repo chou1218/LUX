@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LUX‘s Space
 
 You can use the [editor on GitHub](https://github.com/chou1218/LUX/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
